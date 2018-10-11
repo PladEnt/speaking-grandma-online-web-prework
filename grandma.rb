@@ -1,5 +1,7 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma()
+def speak_to_grandma(speak_to_grandma)
+  if true
+    return 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
